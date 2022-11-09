@@ -1,5 +1,5 @@
-# Xbox_PSN
+# Xbox PSN - Validator User
 
-Script para validação de usuários do Xbox Live e PSN.
+Script to validate Xbox Live and PSN users.
 
-Ainda em fase de estruturação
+Still in the structuring phase
